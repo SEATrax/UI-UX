@@ -1,7 +1,7 @@
 
   # SEATrax Wireframe Design
 
-  This is a code bundle for SEATrax Wireframe Design. The original project is available at [](https://pastel-mining-28881124.figma.site/#)
+  This is a code bundle for SEATrax Wireframe Design. The original project is available at [https://pastel-mining-28881124.figma.site/](https://pastel-mining-28881124.figma.site/#)
 
   ## Running the code
 
